@@ -1,4 +1,4 @@
-# CRUD_ParsePeople
+# CrUD_ParsePeople
 
 В репозитории 5 файлов:
 
